@@ -9,3 +9,4 @@ tf-keras~=2.17.0
 flax~=0.8.5
 urllib3~=2.2.2
 dataset~=1.6.2
+evaluate~=0.4.1
